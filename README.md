@@ -47,7 +47,7 @@ The ABC-Cars-Portal project utilizes the following technologies:
 - Back-end: Node.js, Express.js
 - Database: MySQL
 - Authentication: Spring Security
-- UI/UX Design: CSS, Tailwind
+- UI/UX Design: CSS, Tailwind and Boostrap
 
 ## Installation and Setup
 
@@ -75,5 +75,34 @@ To run the ABC-Cars-Portal project locally, please follow these steps:
     ```
 
 4. Run the Java application and open http://localhost:8080.
+
+## Screenshoot
+### Landing Page
+![landing page](https://github.com/aguswirayasa/ABC-Cars-Portal/blob/main/ABC%20Cars%20Portal%20Screenshoot/landing.png)
+
+### About us Page
+![About us page](https://github.com/aguswirayasa/ABC-Cars-Portal/blob/main/ABC%20Cars%20Portal%20Screenshoot/about-us.png)
+### Contact us Page
+
+![Contact us page](https://github.com/aguswirayasa/ABC-Cars-Portal/blob/main/ABC%20Cars%20Portal%20Screenshoot/contact-us.png)
+
+### Login Page
+![Login page](https://github.com/aguswirayasa/ABC-Cars-Portal/blob/main/ABC%20Cars%20Portal%20Screenshoot/login.png)
+
+### Registration Page
+![Registration page](https://github.com/aguswirayasa/ABC-Cars-Portal/blob/main/ABC%20Cars%20Portal%20Screenshoot/registration.png)
+
+### Dashboard
+![Dashboard page](https://github.com/aguswirayasa/ABC-Cars-Portal/blob/main/ABC%20Cars%20Portal%20Screenshoot/dashboard.png)
+
+### Profile Page
+![Profile page](https://github.com/aguswirayasa/ABC-Cars-Portal/blob/main/ABC%20Cars%20Portal%20Screenshoot/profile.png)
+
+### Manage user Page
+![Manage user page](https://github.com/aguswirayasa/ABC-Cars-Portal/blob/main/ABC%20Cars%20Portal%20Screenshoot/user-management.png)
+
+### Manage car Page
+![Manage car page](https://github.com/aguswirayasa/ABC-Cars-Portal/blob/main/ABC%20Cars%20Portal%20Screenshoot/car-management.png)
+
 
    
